@@ -2,6 +2,12 @@
 
 An Omarchy top-bar widget for adjusting Hyprland window appearance live.
 
+<p align="center">
+  <img src="preview.png" alt="Hyprland Looks widget preview" width="360">
+</p>
+
+<p align="center"><em>Fine-tune your desktop's blur, transparency, rounding, and spacing from the top bar.</em></p>
+
 ## Features
 
 - Active and inactive window opacity
