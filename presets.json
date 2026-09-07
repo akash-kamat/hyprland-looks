@@ -1,0 +1,5 @@
+{
+  "minimal": {"rounding": 6, "activeOpacity": 1.0, "inactiveOpacity": 0.9, "blurEnabled": false, "blurSize": 8, "blurPasses": 1, "innerGap": 3, "outerGap": 6},
+  "balanced": {"rounding": 10, "activeOpacity": 0.86, "inactiveOpacity": 0.78, "blurEnabled": true, "blurSize": 11, "blurPasses": 2, "innerGap": 3, "outerGap": 8},
+  "glass": {"rounding": 14, "activeOpacity": 0.82, "inactiveOpacity": 0.68, "blurEnabled": true, "blurSize": 14, "blurPasses": 3, "innerGap": 4, "outerGap": 10}
+}
