@@ -34,7 +34,7 @@ stored in the plugin's `presets.json`.
 ## Uninstall
 
 ```bash
-omarchy plugin remove hypr.looks --yes
+omarchy plugin remove akash.hyprland-looks --yes
 ```
 
 The plugin does not modify `/usr/share/omarchy/`; it only manages files in the

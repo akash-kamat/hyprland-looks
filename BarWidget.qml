@@ -5,7 +5,7 @@ import qs.Ui
 
 BarWidget {
   id: root
-  moduleName: "hypr.looks"
+  moduleName: "akash.hyprland-looks"
 
   readonly property string applyScript: Qt.resolvedUrl("apply.sh").toString().replace("file://", "")
   readonly property string presetPath: Qt.resolvedUrl("presets.json").toString().replace("file://", "")
